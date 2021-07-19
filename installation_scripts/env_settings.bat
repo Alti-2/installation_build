@@ -11,7 +11,7 @@ SET "APP_HEX_FILE_PATH=..\..\UI_Main\Output\%APP_BUILD_TYPE%\Exe"
 SET "APP_HEX_FILE_NAME=app_%DEVICE_ID%_v%SES_BUILD_VERS_NBR%.hex"
 
 SET "BL_HEX_FILE_PATH=.."
-SET "BL_HEX_FILE_NAME=secure_bootloader_ble_s112_pca10040e.hex"
+SET "BL_HEX_FILE_NAME=secure_bootloader_mercury.hex"
 
 SET "SD_HEX_FILE_PATH=..\..\Nordic-Semiconductor-NRF5-SDK\components\softdevice\s132\hex"
 SET "SD_HEX_FILE_NAME=s132_nrf52_6.1.1_softdevice.hex"
