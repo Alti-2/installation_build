@@ -1,2 +1,2 @@
-# device_firmware_update
+# installation build scripts
  Installation build scripts and supporting files
