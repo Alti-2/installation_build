@@ -2,6 +2,14 @@
 externals
 output
 
+# My stuff
+[A,a]rchive
+*SAVE*
+*ORIG*
+*OLD*
+v[0-9]*
+
+
 # Prerequisites
 *.d
 
